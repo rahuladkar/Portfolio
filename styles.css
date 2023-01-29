@@ -47,7 +47,7 @@ nav {
     padding: 1rem 0;
 }
 
-/* .burger {
+.burger {
     display: none;
     cursor: pointer;
 }
@@ -58,20 +58,20 @@ nav {
     background-color: #000000;
     margin: 5px;
     transition: all 0.3s ease;
-} */
+}
 
 /* Responsive Design */
-/* @media screen and (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
     .nav-links {
         width: 50%;
     }
 }
- */
-/* @media screen and (max-width: 768px) {
+
+@media screen and (max-width: 768px) {
     body {
         overflow-x: hidden;
     }
- */
+
     .nav-links {
         position: absolute;
         right: 0px;
