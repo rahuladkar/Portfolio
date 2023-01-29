@@ -61,12 +61,12 @@ nav {
 }
 
 /* Responsive Design */
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) {
     .nav-links {
         width: 50%;
     }
 }
-
+ */
 /* @media screen and (max-width: 768px) {
     body {
         overflow-x: hidden;
